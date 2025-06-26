@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Pattern6 {
+public class LeftTriangle {
 
     public static void main(String[] args) {
         int n = 5;
