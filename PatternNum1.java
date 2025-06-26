@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PatternNum {
+public class PatternNum1 {
 
     public static void main(String[] args) {
 
